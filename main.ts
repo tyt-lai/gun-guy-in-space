@@ -199,5 +199,5 @@ game.onUpdateInterval(500, function() {
         . . . . . . . . 7 7 7 7 7 7 7 .
         . . . . . . . . 7 7 7 7 7 7 7 .
         . . . . . . . . 7 7 . . . . 7 .
-    `)  
+    `, SpriteKind.Enemy)  
 })
